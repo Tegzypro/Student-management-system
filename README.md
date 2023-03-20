@@ -14,7 +14,6 @@ Internet Security
 User Authentication
 User Authorization
 
-##
 
 
 
@@ -25,7 +24,7 @@ User Authorization
 
 
 
-##Acknowledgements
+###Acknowledgements
 This project was made possible by:
 
 AltSchool Africa School of Engineering
@@ -40,7 +39,7 @@ Caleb Emelike's Flask Lessons
 
 
 
-##Contact
+####Contact
 Paul Utti- @Tega - paulutti00@gmail.com
 
 Project Link: http://tegzypro.pythonanywhere.com/
